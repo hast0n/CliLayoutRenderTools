@@ -16,7 +16,7 @@ namespace CliLayoutRenderTools
             {
                 {
                     "intro",
-                    "Bienvenue ! C'est cool walah"
+                    "Bienvenue ! C'est cool "
                 },
             });
 
